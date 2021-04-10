@@ -1,4 +1,4 @@
-# Coffe TakeAway 
+# Coffee TakeAway 
 
 complete responsive website using HTML,CSS Bootstrap 3, Animate.css. 
 
